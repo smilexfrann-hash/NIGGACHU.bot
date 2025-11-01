@@ -1,0 +1,5 @@
+telethon
+requests
+deep-translator
+pillow
+python-dotenv
